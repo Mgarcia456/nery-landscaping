@@ -94,7 +94,7 @@ function Banner() {
         <header className="">
         {/* begin navbar  */}
           <nav>
-            <h1>Lopez Landscaping</h1>
+            <h1>N.G Lopez Landscaping</h1>
             <ul>
               <li>About Us</li>
               <li>Contact Us</li>
@@ -106,7 +106,7 @@ function Banner() {
             {/* first animation */}
             <article id="hero-1" style={{ '--i': 5 }}>
               <div className="hero-info">
-                <h2>Lopez Landscaping</h2>
+                <h2>N.G Lopez Landscaping</h2>
                 <h1>Family-Owned</h1>
                 <h3>Bringing Your Dream Yard to Life</h3>
               </div>

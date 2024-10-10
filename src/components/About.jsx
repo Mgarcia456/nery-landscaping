@@ -21,7 +21,7 @@ function About() {
                   About Our Company
                 </p>
                 <p class="text-blk subHeadingText">
-                  Lopez Landscaping
+                  N.G Lopez Landscaping
                 </p>
                 <p class="text-blk description">
                 For over 20 years, we’ve been transforming outdoor spaces into stunning landscapes that reflect your unique vision. 
